@@ -10,7 +10,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold mt-6">Hi, I'm Your areej</h1>
 
       <p className="mt-3 text-black-400">
-        I am an AI Developer, This is my Personal Portfolio Website.
+        I am an AI Developer, This is my Personal Portfolio Website. I specialize in AI-powered automation, Next.js, React, Tailwind CSS, and API integrations to deliver modern digital solutions.
       </p>
 
     </div>
